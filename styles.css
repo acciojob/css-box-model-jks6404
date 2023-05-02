@@ -1,2 +1,11 @@
-
-/* Your CSS Code here. */
+body{
+	
+	box-sizing:border-box;
+}
+.demo{
+	background-color:lightblue;
+	width:300px;
+	padding:50px;
+	border:15px solid blue;
+	margin:20px;
+}
